@@ -20,7 +20,7 @@ console.log(price);
 //data type boolean
 
 let DamiSister = true;
-console.log=(DamiSister);
+console.log(DamiSister);
 
 let IsStudent = false;
 console.log(IsStudent);
