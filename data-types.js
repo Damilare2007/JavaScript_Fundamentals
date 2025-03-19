@@ -23,4 +23,4 @@ let DamiSister = true;
 console.log=(DamiSister);
 
 let IsStudent = false;
-console.log=(IsStudent);
+console.log(IsStudent);
